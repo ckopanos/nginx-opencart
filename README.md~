@@ -3,7 +3,7 @@ nginx-opencart
 
 Nginx configuration file for opencart
 
-This is a configuration file for Nginx to be used for an opencart based eshop.
+This is configuration file for Nginx to be used for an opencart based eshop.
 Most lines are commented so you will find your way around.
 
 Use it as a base for your own setup and adjust to your needs.
